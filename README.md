@@ -1,0 +1,2 @@
+# MyBlogsProject
+Blogs app
